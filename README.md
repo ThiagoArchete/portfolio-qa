@@ -60,10 +60,12 @@ Embora cada sistema possua características próprias, todos os repositórios se
 # 🛠️ Ferramentas
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Gherkin](https://img.shields.io/badge/BDD%2FGherkin-23A18C?style=flat)
+![BDD/Gherkin](https://img.shields.io/badge/BDD%2FGherkin-23A18C?style=flat)
 
 As ferramentas utilizadas variam de acordo com o projeto, incluindo testes manuais, testes de API, consultas SQL, documentação em Markdown, Postman, Swagger e outras tecnologias relacionadas ao processo de Quality Assurance.
 
